@@ -41,6 +41,8 @@ let colors.YanZhiHong = "#d63f5a"
 let colors.FaanHong = "#e60012"
 " 水紅 Shuǐ Hóng - Water Red
 let colors.ShuiHong = "#f08080"
+" 荷花粉 Hé Huā Fěn - Lotus Petals Pink
+let colors.HeHuaFen = "#f29c9f"
 " 洋紅 Yáng Hóng - Magenta
 let colors.YangHong = "#ff007f"
 " 粉紅 Fěn Hóng - Light Pink
@@ -68,6 +70,8 @@ let colors.KuLv = "#758853"
 let colors.CongLv = "#8ed500"
 " 龍泉 Lóng Quán - Longquan Celadon Green
 let colors.LongQuan = "#91c4b0"
+" 荷葉綠 Hé Yè lǜ - Lotus Leaf Green
+let colors.HeYeLv = "#93c572"
 " 嫩綠 Nèn Lǜ - Tender Green
 let colors.NenLv = "#98fb98"
 " 豆青 Dòu Qīng - Bean Green
@@ -79,6 +83,8 @@ let colors.TuHuang = "#c4a65f"
 let colors.ZheHuang = "#cc9933"
 " 秋黃 Qiū Huáng - Autumn Yellow
 let colors.QiuHuang = "#e1bf59"
+" 鎏金黃 Liú Jīn Huáng - Gilded Yellow
+let colors.LiuJinHuang = "#e3b130"
 " 金黃 Jīn Huáng - Golden Yellow
 let colors.JinHuang = "#ffcc00"
 " 月黃 Yuè Huáng - Moon Yellow
