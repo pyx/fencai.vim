@@ -224,6 +224,7 @@ hi link Debug           Special
 " CtrlP Specific {{{1
 hi CtrlPMatch     term=reverse cterm=bold ctermfg=4 gui=bold guifg=HeHong
 hi CtrlPBufferHid guifg=ZhongGuoBai
+hi CtrlPBufferPath guifg=LiuJinHuang
 
 " Hy Specific {{{1
 hi hyAsync         term=bold cterm=bold gui=bold guifg=CongLv
